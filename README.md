@@ -1,5 +1,5 @@
 <p align="center" dir="rtl" lang="fa" style="font-size:16px; margin-bottom:20px;">
-برای جزئیات و راهنمای کامل به زبان فارسی <a href="./README.fa.md">اینجا بزنید</a>
+برای توضیحات <a href="./README.fa.md">فارسی اینجا بزنید</a>
 </p>
 
 # V2rayNG Installation & Usage Guide (Android)
@@ -10,8 +10,10 @@ Equip your device with secure, reliable access using our free V2Ray configuratio
 
 ## 1. Installation
 
-1. **Download** V2rayNG from Google Play or a trusted source.  
-2. **Install** and launch the application.
+1. **Download** the latest V2rayNG APK from GitHub Releases:  
+   https://github.com/2dust/v2rayNG/releases  
+2. **Install** the downloaded APK on your device (you may need to allow installing from unknown sources).  
+3. **Launch** the application.
 
 ---
 
@@ -43,7 +45,5 @@ Equip your device with secure, reliable access using our free V2Ray configuratio
 
 ## 5. Important Considerations
 
-- These configurations are provided **free of charge** for **educational and personal use**.  
+- These configs are provided **free of charge** for **educational and personal use**.  
 - **Please use responsibly**. You assume all liability for any misuse.
-
----  
